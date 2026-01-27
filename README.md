@@ -1,5 +1,6 @@
 - 👋 Hi, My name is Rocío Alegre -also known as @banryuus on the internet-.
-- 👀 I’m interested in coffee, cats and Empire of the Sun.
+- 👀 I like to describe myself as an "Unrelenting force"
+- (Yeah, a SKyrim reference).
 - 🌱 I’m taking the first steps in my career as a developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
